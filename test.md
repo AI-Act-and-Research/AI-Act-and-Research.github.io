@@ -1,3 +1,6 @@
+---
+title: Regulation of Foundation Models in the EU AI Act and Research
+---
 # Regulation of Foundation Models in the EU AI Act and Research
 
 AI research is highly collaborative and depends on the ability of the researchers to share and receive trained AI models without interference.
