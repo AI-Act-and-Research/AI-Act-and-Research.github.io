@@ -3,7 +3,7 @@ safe: true
 source: .
 incremental: false
 highlighter: rouge
-markdown: GFM
+markdown: kramdown
 gist:
   noscript: false
 kramdown:
